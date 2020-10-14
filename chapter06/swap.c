@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<stdio.h>
 void sum(int *a,int*b);
 int main(){
@@ -18,3 +19,25 @@ void sum(int *a,int*b){
     *b=hi;
 
 }
+=======
+#include<stdio.h>
+void sum(int *a,int*b);
+int main(){
+    int a=6,b=9;
+    
+    printf("value of a and b is %d,%d\n\n",a,b);
+     sum(&a,&b);
+    printf("value of a and b is %d,%d\n\n", a,b );
+
+
+    return 0;
+}
+
+void sum(int *a,int*b){
+    int hi;
+    hi=*a;
+    *a=*b;
+    *b=hi;
+
+}
+>>>>>>> f7a036c5f11fab29316e4243a87bfcb00fcc7bee
