@@ -1,0 +1,6 @@
+amartya	18	300000	gopal
+malati	40	20000000	gopal
+ipsita	22	1000000	gopalpura
+kartikey	19	10000000	indore
+shakti	55	500000	gopalpura
+sachin	19	50000000	jajamkhedi

@@ -11,7 +11,7 @@ int main(){
 
     num=rand()%100 + 0;
  
-   printf("*************Number guessing game by knight************\n\n\n");
+   printf("\n\n*************Number guessing game by knight************\n\n\n");
 
     do{
     
